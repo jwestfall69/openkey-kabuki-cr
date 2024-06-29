@@ -202,5 +202,8 @@ Pang/Super Pang Style Boards:<br>
 CPS 1.5 D Board:<br>
 ![installed cps 1.5 d board](images/installed_cps15_d_board.jpg)
 
-Block Block / Poker Ladies / Mahjong / Quiz Style Boards:<br>
+Block Block / Poker Ladies / Quiz Style Boards:<br>
 ![installed block block](images/installed_block_block.jpg)
+
+Mahjong Style Boards:<br>
+![installed mahjong](images/installed_mahjong.jpg)
